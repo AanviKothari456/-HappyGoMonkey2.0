@@ -7,6 +7,7 @@ Monkey: The main character of the game. It can move up and down and collects ban
 Banana: The collectible item in the game. The monkey earns points by collecting bananas.
 Obstacle: The obstacles that the monkey needs to avoid. If the monkey touches an obstacle, the game ends.
 Ground: The platform on which the monkey and obstacles move.
+
 Game Rules:
 The monkey automatically moves forward.
 Press the spacebar to make the monkey jump.
